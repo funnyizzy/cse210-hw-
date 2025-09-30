@@ -56,7 +56,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("Keep going—you’ll get it next time.");
+            Console.WriteLine("Uh oh. You did not pass the course.");
         }
     }
 }
